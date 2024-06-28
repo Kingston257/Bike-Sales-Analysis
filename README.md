@@ -11,7 +11,7 @@ Analysis is required to make meaning of the data.
 - To prepare the dataset by restructuring in a more logical manner.
 - Seek out any trends or patterns in the sales data.
 
-## Activities involved:
+## Process Activities
 - Data Cleaning and Preparation
 - Pivot Tables for quick summaries
 - Data Visualization
