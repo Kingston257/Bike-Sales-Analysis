@@ -11,12 +11,12 @@ Analysis is required to make meaning of the data to drive key business decisions
 - To prepare the dataset by restructuring in a more logical manner.
 - Seek out any trends or patterns in the sales data.
 
-## Process Activities
+## Project Activities
 - Data Cleaning and Preparation
 - Pivot Tables for quick summaries
 - Data Visualization
 
-## Key Insights For Business Decisions
+## Key Business Insights
 - The Youth Age group are globally the poorest in orders & sales.
 - Female Adults are buying the most products.
 - The United Kingdom and Australia markets have orders from all the customer genders and age_groups.
