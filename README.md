@@ -3,13 +3,14 @@
 ![Mountain Bikes](mountain_bikes.jpg)
 
 Photo from [Outside](https://outsideonline.com)
+### Data Analysis using Microsoft Excel
 
+## The Data 
 The public dataset, [Bike_Sales](https://github.com/Kingston257/Bike-Sales-Analysis/blob/main/Bike_Sales_Raw.csv), is provided.
-Analysis is required to make meaning of the data to drive key business decisions.
 
 ## Objectives
 - To prepare the dataset by restructuring in a more logical manner.
-- Seek out any trends or patterns in the sales data.
+- Seek out any trends or patterns in the sales data to influence key business decisions.
 
 ## Project Activities
 - Data Cleaning and Preparation
